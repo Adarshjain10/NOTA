@@ -4,9 +4,9 @@
 =============
 
 :point_up_2:  NOTA  :negative_squared_cross_mark:
-=============
+-----------
 About The Application :page_facing_up:
--------------
+-----------
 NOTA is a web-based application. The system has a centralized database to keep records of all the Voters and Candidates and Final Results. This web-based system is time saving, work load reduced information available at time and it provide security for the data. During the Voting, the Voting commission of the Voting has introduced a new method of polling by Online Voting system (OVS).
 
 ### Tech Stack :computer:
