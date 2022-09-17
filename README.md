@@ -1,7 +1,6 @@
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeTgc9xhFz-O1L2jYcfbc3MqkotBF4Ej19Qw&usqp=CAU)
 
 ![](https://qph.cf2.quoracdn.net/main-qimg-e190c32f6331318e9d202f9f8a10812c-lq)
-
 =============
 
 :point_up_2:  NOTA  :negative_squared_cross_mark:
