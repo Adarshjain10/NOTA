@@ -3,7 +3,7 @@
 ![](https://qph.cf2.quoracdn.net/main-qimg-e190c32f6331318e9d202f9f8a10812c-lq)
 =============
 
-:point_up_2:  # NOTA  :negative_squared_cross_mark:
+:point_up_2:  #NOTA  :negative_squared_cross_mark:
 -----------
 About The Application :page_facing_up:
 -----------
